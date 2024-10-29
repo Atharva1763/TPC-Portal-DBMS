@@ -2,6 +2,7 @@
 
 Placement Portal is a web application designed to streamline the placement process for students and companies. It provides a platform for students to explore job opportunities, apply for positions, and manage their profiles. Companies can post job openings, review applications.The portal enhances efficiency and transparency in the placement process for both students and companies.
 
+Project Report : https://drive.google.com/file/d/1j7kBuDVT8G0fiUVBPHLO2QVy5Pbotv0J/view?usp=sharing
 ## Features
 
 Student :
